@@ -1,0 +1,4 @@
+package route
+
+interface RouteRepository {
+}
