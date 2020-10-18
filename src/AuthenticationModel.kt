@@ -1,0 +1,1 @@
+data class AuthenticationModel(val accessToken: String, val linkList: MutableList<String>)
