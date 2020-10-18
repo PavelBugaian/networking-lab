@@ -1,4 +1,4 @@
-package Authentication
+package authentication
 
 import com.beust.klaxon.JsonObject
 import com.beust.klaxon.Parser

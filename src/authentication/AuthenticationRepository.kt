@@ -1,4 +1,4 @@
-package Authentication
+package authentication
 
 interface AuthenticationRepository {
 
